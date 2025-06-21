@@ -1,0 +1,13 @@
+[
+    {
+      "title": "Task Management System",
+      "description": "A full-stack app built with React, Node.js and MongoDB.",
+      "link": "https://github.com/IDevSharma1/Task-Management-System"
+    },
+    {
+      "title": "DataAnalyzer",
+      "description": "A Python-based data analysis tool using Pandas and Matplotlib.",
+      "link": "https://github.com/IDevSharma1/DataAnalyzer"
+    }
+  ]
+  
