@@ -162,7 +162,7 @@ const Projects = () => {
           transition={{ duration: 0.8, delay: 1.2 }}
         >
           <motion.a
-            href="https://github.com"
+            href="https://github.com/IDevSharma1?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 border border-primary text-primary font-medium rounded-lg hover:bg-primary hover:text-dark transition-all duration-300"

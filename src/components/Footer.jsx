@@ -21,7 +21,7 @@ const Footer = () => {
             >
               <Heart className="w-4 h-4 text-secondary" />
             </motion.div>
-            <span className="text-sm">by Your Name</span>
+            <span className="text-sm">by Dev Sharma</span>
           </div>
           <p className="text-sm text-text-secondary">
             © {currentYear} All rights reserved. Built with React, Framer Motion & Tailwind CSS.

@@ -45,8 +45,8 @@ function App() {
       <Footer />
       
       {/* Floating Elements */}
-      <ThemeToggle isDark={isDark} setIsDark={setIsDark} />
-      <SponsorLink />
+      {/* <ThemeToggle isDark={isDark} setIsDark={setIsDark} /> */}
+
       
       {/* Navigation */}
       <Navbar scrollY={scrollY} />
