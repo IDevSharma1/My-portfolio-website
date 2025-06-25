@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import { Mail, Github, Linkedin, Twitter, Send } from 'lucide-react'
+import { Mail, Github, Linkedin, Instagram, Send } from 'lucide-react'
 
 const Contact = () => {
   const [ref, inView] = useInView({
@@ -10,8 +10,8 @@ const Contact = () => {
 
   const socialLinks = [
     { name: 'GitHub', icon: Github, url: 'https://github.com/IDevSharma1', color: 'hover:text-gray-400' },
-    { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com', color: 'hover:text-blue-400' },
-    { name: 'Twitter', icon: Twitter, url: 'https://twitter.com', color: 'hover:text-blue-400' },
+    { name: 'LinkedIn', icon: Linkedin, url: 'www.linkedin.com/in/idevsharma', color: 'hover:text-blue-400' },
+    { name: 'Instagram', icon: Instagram, url: 'https://www.instagram.com/idevsharma_/', color: 'hover:text-blue-400' },
     { name: 'Email', icon: Mail, url: 'mailto:devsharma9979@gamil.com', color: 'hover:text-primary' }
   ]
 
